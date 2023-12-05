@@ -64,11 +64,6 @@ A classe `ContaTerminal` é responsável por interagir com o usuário para criar
 8. Solicita ao usuário que faça um saque.
 9. Tenta realizar o saque e exibe mensagem correspondente.
 
-## Utilização de Getters e Setters
-
-- Utiliza setters para modificar os atributos da conta (nome e CPF).
-- Utiliza getters para obter e exibir informações atualizadas da conta.
-
 ## Observações
 
 - Utiliza a classe `Scanner` para obter entrada do usuário.
