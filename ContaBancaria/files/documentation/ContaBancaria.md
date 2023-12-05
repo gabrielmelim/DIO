@@ -2,6 +2,14 @@
 
 A classe `ContaBancaria` representa uma conta bancária simples com funcionalidades como depósito, saque e exibição de informações.
 
+## Tecnologia Utilizada
+
+- Linguagem: Java
+- Ferramenta de Build: N/A (pode ser utilizado Maven ou Gradle, conforme preferência)
+- Ambiente de Desenvolvimento: JDK (Java Development Kit)
+- Controle de Versão: Git
+
+
 ## Atributos
 
 - **numeroConta**: Identificador único da conta gerado automaticamente.
