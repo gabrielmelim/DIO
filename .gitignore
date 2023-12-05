@@ -1,0 +1,70 @@
+# Ignorar arquivos gerados pelo sistema operacional
+.DS_Store
+
+# Ignorar diretórios de compilação
+target/
+bin/
+out/
+
+# Ignorar arquivos de configuração do IntelliJ IDEA
+.idea/
+
+# Ignorar arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Ignorar arquivos de log
+*.log
+log/
+
+# Ignorar arquivos temporários
+*.tmp
+
+# Ignorar arquivos de compilação
+*.class
+
+# Ignorar arquivos de configuração do Maven
+log/
+target/
+
+# Ignorar arquivos de configuração do Gradle
+build/
+.gradle/
+
+# Ignorar arquivos de configuração do Spring Boot
+target/
+*.iml
+*.iws
+*.ipr
+
+# Ignorar arquivos de configuração do Lombok
+*.lombok
+lombok.config
+
+# Ignorar arquivos de configuração do Checkstyle
+checkstyle.xml
+
+# Ignorar arquivos de dependências
+lib/
+*.jar
+
+# Ignorar arquivos de IDE específicos do Eclipse
+.settings/
+*.suo
+*.prefs
+*.class
+
+# Ignorar arquivos de histórico de sessão do IntelliJ IDEA
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/datasources.xml
+
+# Ignorar arquivos de configuração do JRebel
+ rebel.xml
+
+# Ignorar arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Ignorar arquivos gerados pela execução do Spring Boot
+logs/
